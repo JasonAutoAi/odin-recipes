@@ -1,0 +1,38 @@
+.lasagna{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, sans-serif;
+}
+
+.home{
+    color: white;
+    background-color: gray;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.homeparagraph{
+    background-color: rgb(96, 124, 96);
+    color: white;
+    font-size: 18px;
+}
+
+.inverted
+.fancy {
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.inverted {
+    color: white;
+    background-color: black;
+}
+
+.fancy {
+    color: black;
+    background-color: yellow;
+}
